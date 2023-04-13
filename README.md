@@ -73,7 +73,7 @@ CREATE TABLE `products` (
 Clone the project:
 
 ```
-git clone https://github.com/anggiirawan13/mini-project-merchant-service.git
+git clone https://github.com/Arifandi-Batista/mini-project-merchant-service.git
 ```
 
 Go to the project directory:

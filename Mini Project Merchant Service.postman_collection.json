@@ -212,7 +212,7 @@
 						"header": [],
 						"body": {
 							"mode": "raw",
-							"raw": "{\r\n    \"name\": \"anggi\",\r\n    \"password\": \"Unpam123\",\r\n    \"address\": \"1\",\r\n    \"phone_number\": \"08123123123\"\r\n}",
+							"raw": "{\r\n    \"name\": \"ifan\",\r\n    \"password\": \"Unpam123\",\r\n    \"address\": \"1\",\r\n    \"phone_number\": \"08123123123\"\r\n}",
 							"options": {
 								"raw": {
 									"language": "json"
